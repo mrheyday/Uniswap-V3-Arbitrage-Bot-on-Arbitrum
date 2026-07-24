@@ -18,7 +18,7 @@
     "@uniswap/v2-periphery": "^1.1.0-beta.0",
     "@uniswap/v3-core": "^1.0.1",
     "@uniswap/v3-periphery": "^1.4.4",
-    "axios": "^1.11.0",
+    "axios": "^1.18.1",
     "big.js": "^7.0.1",
     "canvas": "^3.1.2",
     "chart.js": "^4.5.0",
